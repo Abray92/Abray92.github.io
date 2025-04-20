@@ -1,36 +1,60 @@
-<div class="splide" role="group" aria-label="Splide Basic HTML Example">
-    <div class="splide__track">
-        <ul class="splide__list">
-            <li class="splide__slide text-center">
-                <div class="col-12 px-3">
-                    
-                </div>
-            </li>
-            <li class="splide__slide text-center">
-                <div class="col-12 px-3">
-                    
-                </div>
-            </li>
-            <li class="splide__slide text-center">
-                <div class="col-12 px-3">
+<div class="bg-light">
+    <div class="container-xl py-5">
+        <div class="display-5 text-center fw-bold text-danger pt-4 pb-5">
+            Our Features & Services
+        </div>
 
-                </div>
-            </li>
-            <li class="splide__slide text-center">
-                <div class="col-12 px-3">
-                    
-                </div>
-            </li>
-            <li class="splide__slide text-center">
-                <div class="col-12 px-3">
-                    
-                </div>
-            </li>
-            <li class="splide__slide text-center">
-                <div class="col-12 px-3">
-                    
-                </div>
-            </li>
-        </ul>
+        <div class="splide" role="group" aria-label="Splide Basic HTML Example">
+            <div class="splide__track">
+                <ul class="splide__list">
+                    <li class="splide__slide text-center">
+                        <div class="col-12 px-3">
+                            <div class="col mx-3 shadow bg-white text-center rounded-4">
+                                <div class=" rounded-4">
+                                  <div class="py-2">
+                                    <img src="img/0301.jpg" class="w-75 rounded-4" alt="...">
+                                  </div>
+                                  <div class="text-uppercase h5 text-danger fw-bold py-2">
+                                    no coding
+                                  </div>
+                                  <div class="py-4">
+                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus mollitia, expedita nihil alias
+                                    dicta aliquid.
+                                  </div>
+                                  <div class="pb-5">
+                                    <button type="button"
+                                      class="rounded-1 bg-white border-danger border-3 fw-bold text-danger px-5 py-1 ">more</button>
+                                  </div>
+                                </div>
+                        </div>
+                    </li>
+                    <li class="splide__slide text-center">
+                        <div class="col-12 px-3">
+
+                        </div>
+                    </li>
+                    <li class="splide__slide text-center">
+                        <div class="col-12 px-3">
+
+                        </div>
+                    </li>
+                    <li class="splide__slide text-center">
+                        <div class="col-12 px-3">
+
+                        </div>
+                    </li>
+                    <li class="splide__slide text-center">
+                        <div class="col-12 px-3">
+
+                        </div>
+                    </li>
+                    <li class="splide__slide text-center">
+                        <div class="col-12 px-3">
+
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
     </div>
 </div>
