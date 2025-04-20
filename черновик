@@ -4,53 +4,143 @@
             Our Features & Services
         </div>
 
-        <div class="splide" role="group" aria-label="Splide Basic HTML Example">
+        <div class="splide slider2" role="group" aria-label="Splide Basic HTML Example">
             <div class="splide__track">
                 <ul class="splide__list">
+                    <li class="splide__slide text-center">
+                        <div class="col mx-3 shadow bg-white text-center rounded-4">
+                            <div class=" rounded-4">
+                                <div class="py-2">
+                                    <img src="img/0301.jpg" class="w-75 rounded-4" alt="...">
+                                </div>
+                                <div class="text-uppercase h5 text-danger fw-bold py-2">
+                                    no coding
+                                </div>
+                                <div class="py-4">
+                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus mollitia,
+                                    expedita nihil alias
+                                    dicta aliquid.
+                                </div>
+                                <div class="pb-5">
+                                    <button type="button"
+                                        class="rounded-1 bg-white border-danger border-3 fw-bold text-danger px-5 py-1 ">more</button>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
                     <li class="splide__slide text-center">
                         <div class="col-12 px-3">
                             <div class="col mx-3 shadow bg-white text-center rounded-4">
                                 <div class=" rounded-4">
-                                  <div class="py-2">
-                                    <img src="img/0301.jpg" class="w-75 rounded-4" alt="...">
-                                  </div>
-                                  <div class="text-uppercase h5 text-danger fw-bold py-2">
-                                    no coding
-                                  </div>
-                                  <div class="py-4">
-                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus mollitia, expedita nihil alias
-                                    dicta aliquid.
-                                  </div>
-                                  <div class="pb-5">
-                                    <button type="button"
-                                      class="rounded-1 bg-white border-danger border-3 fw-bold text-danger px-5 py-1 ">more</button>
-                                  </div>
+                                    <div class="py-2">
+                                        <img src="img/0302.jpg" class="w-75 rounded-4" alt="...">
+                                    </div>
+                                    <div class="text-uppercase h5 text-danger fw-bold py-2">
+                                        seo optimozation
+                                    </div>
+                                    <div class="py-4">
+                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus mollitia,
+                                        expedita nihil alias
+                                        dicta aliquid.
+                                    </div>
+                                    <div class="pb-5">
+                                        <button type="button"
+                                            class="rounded-1 bg-white border-danger border-3 fw-bold text-danger px-5 py-1 ">more</button>
+                                    </div>
                                 </div>
+                            </div>
                         </div>
                     </li>
                     <li class="splide__slide text-center">
                         <div class="col-12 px-3">
-
+                            <div class="col mx-3 shadow bg-white text-center rounded-4">
+                                <div class=" rounded-4">
+                                    <div class="py-2">
+                                        <img src="img/0303.jpg" class="w-75 rounded-4" alt="...">
+                                    </div>
+                                    <div class="text-uppercase h5 text-danger fw-bold py-2">
+                                        cloud solutions
+                                    </div>
+                                    <div class="py-4">
+                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus mollitia,
+                                        expedita nihil alias
+                                        dicta aliquid.
+                                    </div>
+                                    <div class="pb-5">
+                                        <button type="button"
+                                            class="rounded-1 bg-white border-danger border-3 fw-bold text-danger px-5 py-1 ">more</button>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </li>
                     <li class="splide__slide text-center">
                         <div class="col-12 px-3">
-
+                            <div class="col mx-3 shadow bg-white text-center rounded-4">
+                                <div class=" rounded-4">
+                                    <div class="py-2">
+                                        <img src="img/0304.jpg" class="w-75 rounded-4" alt="...">
+                                    </div>
+                                    <div class="text-uppercase h5 text-danger fw-bold py-2">
+                                        happy customers
+                                    </div>
+                                    <div class="py-4">
+                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus mollitia,
+                                        expedita nihil alias
+                                        dicta aliquid.
+                                    </div>
+                                    <div class="pb-5">
+                                        <button type="button"
+                                            class="rounded-1 bg-white border-danger border-3 fw-bold text-danger px-5 py-1 ">more</button>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </li>
                     <li class="splide__slide text-center">
                         <div class="col-12 px-3">
-
+                            <div class="col mx-3 shadow bg-white text-center rounded-4">
+                                <div class=" rounded-4">
+                                    <div class="py-2">
+                                        <img src="img/0305.jpg" class="w-75 rounded-4" alt="...">
+                                    </div>
+                                    <div class="text-uppercase h5 text-danger fw-bold py-2">
+                                        get set up fast
+                                    </div>
+                                    <div class="py-4">
+                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus mollitia,
+                                        expedita nihil alias
+                                        dicta aliquid.
+                                    </div>
+                                    <div class="pb-5">
+                                        <button type="button"
+                                            class="rounded-1 bg-white border-danger border-3 fw-bold text-danger px-5 py-1 ">more</button>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </li>
                     <li class="splide__slide text-center">
                         <div class="col-12 px-3">
-
-                        </div>
-                    </li>
-                    <li class="splide__slide text-center">
-                        <div class="col-12 px-3">
-
+                            <div class="col mx-3 shadow bg-white text-center rounded-4">
+                                <div class=" rounded-4">
+                                    <div class="py-2">
+                                        <img src="img/0306.jpg" class="w-75 rounded-4" alt="...">
+                                    </div>
+                                    <div class="text-uppercase h5 text-danger fw-bold py-2">
+                                        top raiting
+                                    </div>
+                                    <div class="py-4">
+                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus mollitia,
+                                        expedita nihil alias
+                                        dicta aliquid.
+                                    </div>
+                                    <div class="pb-5">
+                                        <button type="button"
+                                            class="rounded-1 bg-white border-danger border-3 fw-bold text-danger px-5 py-1 ">more</button>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </li>
                 </ul>
