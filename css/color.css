@@ -1,0 +1,11 @@
+.gradient {
+    background:linear-gradient(135deg,#C4C8F7,#FBE6EF);
+}
+
+.gradient2 {
+    background:linear-gradient(135deg,#FBE6EF,#C6C8F8);
+}
+
+.gradient3 {
+    background:linear-gradient(531deg,#CBC3F3,#E2B2DB,white);
+}
